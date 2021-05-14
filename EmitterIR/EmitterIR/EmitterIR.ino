@@ -7,9 +7,9 @@
 |   | |   |  | |  |   |___ | ||_|| ||   |   |   |    |   |  |   |___ |   |  | |
 |___| |___|  |_|  |_______||_|   |_||___|   |___|    |___|  |_______||___|  |_|
 
-																		By Jocelyn Routin
+					By Jocelyn Routin
 
-This code show how you can send and receive a simple infrared signal between two Arduino cards.
+This code shows how you can send and receive a simple infrared signal between two Arduino cards.
 You need the IRremote library, available here: https://github.com/Arduino-IRremote/Arduino-IRremote
 */
 
